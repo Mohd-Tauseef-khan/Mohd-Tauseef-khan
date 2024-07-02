@@ -7,9 +7,9 @@
 
  ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 - ⚡ Fun fact **𝐢 𝐭𝐡𝐢𝐧𝐤 𝐢 𝐚𝐦 𝐭𝐨𝐨 𝐥𝐚𝐳𝐲.**
-- 📫 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ** https://telegram.me/ExtraOwner_Bot **
+- 📫 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ** [Click Here ](https://telegram.me/ExtraOwner_Bot) **
 - 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐢𝐭 𝐢𝐧 𝐡𝐚𝐜𝐤𝐢𝐧𝐠 𝐬𝐭𝐮𝐟𝐟.
-- ✔️ 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- [Join Now](https://telegram.me/Extra_Tv_Team) <br>
+- 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- [Join Now](https://telegram.me/Extra_Tv_Team) <br>
 - 👿 bad habit **𝐝𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧 𝐜𝐨𝐝𝐞𝐫.**
   
 <br>
