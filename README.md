@@ -1,49 +1,38 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<html>
+<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝐌𝐎𝐇𝐃 𝐓𝐀𝐔𝐒𝐄𝐄𝐅 𝐊𝐇𝐀𝐍 </h1>
+<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br>  <br></h4>
 
-###
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mohd-Tauseef-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd-Tauseef-khan" /> </p>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Tauseef-khan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd-Tauseef-khan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
+- ⚡ Fun fact **𝐢 𝐭𝐡𝐢𝐧𝐤 𝐢 𝐚𝐦 𝐭𝐨𝐨 𝐥𝐚𝐳𝐲.**
+- 📫 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ** [Click Here ](https://telegram.me/ExtraOwner_Bot) **
+- 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐢𝐭 𝐢𝐧 𝐡𝐚𝐜𝐤𝐢𝐧𝐠 𝐬𝐭𝐮𝐟𝐟.
+- 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- [Join Now](https://telegram.me/Extra_Tv_Team) <br>
+- 👿 bad habit **𝐝𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧 𝐜𝐨𝐝𝐞𝐫.**
 
-###
+<br>
+<br>
+## ⚡️ ꜱᴛᴀᴛꜱ : 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![Mohd-Tauseef-khan's github stats](https://github-stats-alpha.vercel.app/api?username=Mohd-Tauseef-khan&cc=000&tc=fff&ic=fff&bc=000)
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ :
 
-###
+<p align="center">
+  <a href="https://github.com/Mohd-Tauseef-khan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Tauseef-khan&theme=radical&border=7F3FBF&background=0D1117" alt="Sanjib's GitHub streak"/>
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+  <a href="https://github.com/Mohd-Tauseef-khan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohd-Tauseef-khan&theme=radical" alt="Sanjib's GitHub Contribution"/>
+  </a>
+</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mohd-Tauseef-khan/Mohd-Tauseef-khan/output/snake.svg" alt="Snake animation" />
-
-###
+<a href="https://github.com/Mohd-Tauseef-khan">
+<img alt="Sanjib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Tauseef-khan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+</a>
