@@ -16,7 +16,7 @@
 <br>
 ## ⚡️ ꜱᴛᴀᴛꜱ : 
 
-![Mohd-Tauseef-khan's github stats]()
+![Mohd-Tauseef-khan's github stats](https://github-stats-alpha.vercel.app/api?username=Mohd-Tauseef-khan&cc=000&tc=fff&ic=fff&bc=000)
 
 
 ## 🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ :
