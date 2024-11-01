@@ -23,16 +23,16 @@
 
 <p align="center">
   <a href="https://github.com/Mohd-Tauseef-khan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Tauseef-khan&theme=radical&border=7F3FBF&background=0D1117" alt="Sanjib's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Tauseef-khan&theme=radical&border=7F3FBF&background=0D1117" alt="Mohd-Tauseef-khan GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mohd-Tauseef-khan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohd-Tauseef-khan&theme=radical" alt="Sanjib's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohd-Tauseef-khan&theme=radical" alt="Mohd-Tauseef-khan' GitHub Contribution"/>
   </a>
 </p>
 
 <a href="https://github.com/Mohd-Tauseef-khan">
-<img alt="Sanjib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Tauseef-khan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+<img alt="Mohd-Tauseef-khan' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Tauseef-khan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </a>
